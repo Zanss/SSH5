@@ -26,7 +26,7 @@ $banner = "\e[36;1m
 
 Coded by : Zan.
 
-Team : n/A
+Team : n/A.
 
 Github : https//github.com/Zan/\n\n\e[0;1m";
 
