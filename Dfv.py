@@ -1,8 +1,4 @@
-ssh.php
-
-<?php
-
-sleep(1);
+leep(1);
 
 system("clear");
 
